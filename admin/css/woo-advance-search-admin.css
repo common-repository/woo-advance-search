@@ -1,0 +1,22 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+td.advance_search_html{margin-bottom:9px;padding:15px 10px;line-height:1.3;vertical-align:middle}
+
+a#advance_search_open_setting{cursor:pointer}
+a#advance_search_open_preview{cursor:pointer}
+a#advance_search_open_shortcode{cursor:pointer}
+a#woo-advance-search-overview-tab{cursor:pointer}
+.woo_advance_save_record_messgae{margin-top:1%;display:none}
+a#advance_search_open_custom_css{cursor:pointer}
+.about-wrap img.version_logo_img{max-width:128px;position:absolute;top:0;right:0}
+p.advance_search_for_woocommerce_overview{width:100%!important;font-size:15px;line-height:1.5}
+.advance_search_for_woocommerce_content_ul{width:100%;display:inline-block;}
+.advance_search_for_woocommerce_content_ul ul li{margin-left:3%;list-style:initial;line-height:23px}
+.woo-advance-search-preview-tab{display:none}
+.woo-advance-search-shortcode-tab{display:none}
+.woo-advance-search-custom-css{display:none}
+.woo-advance-search-overview-tab{display:none}
+.welcome_message_plugin{font-size:2.1em}

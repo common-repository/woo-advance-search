@@ -1,0 +1,45 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+input#Search_Button_Preview{margin:0 0 0 16px;padding:14px;width:17%}
+input.woo_advance_default_preview_set_search_text{display:inline-block;vertical-align:top;padding-right:33px!important}
+input.advance_search_for_woocommerce_save_btn{position:absolute;top:0}
+.Advance_Search_Button{margin-top:11px;margin-bottom:13px}
+.Advance_search_for_woo_display_main{margin-top:45px}
+.advace_search_filter_html{display:inline-block}
+.Advance_search_select_category{display:inline-block}
+p.advace_search_filter_inner_html{width:100%;margin:0 0 0.75em}
+.order_by_filter{display:inline-block}
+.advance_default_search_advance_search_option{margin-top:15px}
+.category_display_yes{display:inline-block}
+.tag_display_yes{display:inline-block}
+.tag_display_no{display:none}
+.category_display_no{display:none}
+.Default_search_preview_tab.loading, .Default_search_preview_tab{position:relative;    width: 100%;
+    display: inline-block;}
+.Default_search_preview_tab.loading::after{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-style:normal;font-variant:normal;font-family:"Font Awesome 5 Free";font-weight:900;vertical-align:baseline;content:"\f110";-webkit-animation:fa-spin 0.75s linear infinite;animation:fa-spin 0.75s linear infinite;height:20px;width:20px;line-height:20px;font-size:20px;position:absolute;top:50%;right:90px;margin-left:-10px;margin-top:-10px;display:block}
+ul.autocomplete_suggesions{display:block;width:100%;margin:0;float:left;background:#f2f2f2;left:0;z-index:1;}
+ul.autocomplete_suggesions li{list-style:none;display:inline-block;width:100%;/* position:relative */margin:0;}
+ul.autocomplete_suggesions li>a{padding:8px 45px 8px 7px;display:block;color:#333}
+/* 13-11-2019 */
+ul.autocomplete_suggesions li>figure img{width:60px;height:60px;border-radius:0}/* 13-11-2019 */
+ul.autocomplete_suggesions li:hover{background:#bfbfbf}
+
+/* 13-11-2019 */
+ul.autocomplete_suggesions li.wasLiveAjax{padding:15px;border:1px solid #ddd;border-top:0}
+ul.autocomplete_suggesions li.wasLiveAjax:first-child{border-top:1px solid #ddd}
+ul.autocomplete_suggesions li>figure{display:block;height:100%;float:left;padding-right:15px}
+ul.autocomplete_suggesions li .wasLiveAjaxChildElement{overflow:hidden;display:block}
+ul.autocomplete_suggesions li.wasLiveAjax a.wasLiveAjaxname{font-weight:600;margin-bottom:5px;display:inline-block}
+ul.autocomplete_suggesions li.wasLiveAjax a.wasLiveAjaxprice{position:absolute;right:0;font-weight:600;padding-right:20px}
+ul.autocomplete_suggesions li.wasLiveAjax p.wasLiveAjaxDesc{margin-bottom:5px}
+.Default_search_preview_tab input#woo_advance_default_preview_set_search_text{border:1px solid #ddd;}
+.Default_search_preview_tab input.advance_search_for_woocommerce_save_btn{padding:8px 1.41575em}
+ul.autocomplete_suggesions li.wasLiveAjax a.wasLiveAjaxname:focus{outline:none;}
+
+.text-box{width: 90%;float: left;padding-right:5px;}
+.text-box #woo_advance_default_preview_set_search_text{padding: 8px;}
+.button-box{float: right;width: 10%;}
+
+@media screen and (max-width:600px){.Advance_search_for_woo_display_main .advance_default_search_advance_search_option .order_by_filter{display:inline-block;width:100%}.Advance_search_for_woo_display_main .advance_default_search_advance_search_option .order_by_filter .p.order_by_filter_inner_html{display:block}.Advance_search_for_woo_display_main .advance_default_search_advance_search_option p.order_by_filter_inner_html{display:block;width:100%;margin:15px 0 0!important}ul.autocomplete_suggesions li.wasLiveAjax a.wasLiveAjaxprice{position:relative;display:block;margin-bottom:5px;padding-right:0}}

@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-05-22 12:43+0530\n"
+"PO-Revision-Date: 2018-05-22 12:59+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-woo-advance-search-admin.php:110
+msgid "Advance Search"
+msgstr "Erweiterte Suche"
+
+#: admin/class-woo-advance-search-admin.php:231
+#: public/class-woo-advance-search-public.php:162
+msgid "Select Category"
+msgstr "Kategorie wählen"
+
+#: admin/class-woo-advance-search-admin.php:232
+msgid "Test Category1"
+msgstr "Testkategorie1"
+
+#: admin/class-woo-advance-search-admin.php:233
+msgid "Test Category2"
+msgstr "Testkategorie2"
+
+#: admin/class-woo-advance-search-admin.php:234
+msgid "Test Category3"
+msgstr "Testkategorie3"
+
+#: admin/class-woo-advance-search-admin.php:237
+msgid "Select Tag"
+msgstr "Wählen Sie Tag"
+
+#: admin/class-woo-advance-search-admin.php:238
+msgid "Test Tag1"
+msgstr "Test-Tag1"
+
+#: admin/class-woo-advance-search-admin.php:239
+msgid "Test Tag2"
+msgstr "Test-Tag2"
+
+#: admin/class-woo-advance-search-admin.php:240
+msgid "Test Tag3"
+msgstr "Test-Tag3"
+
+#: admin/class-woo-advance-search-admin.php:248
+msgid "Ascending"
+msgstr "Aufsteigend"
+
+#: admin/class-woo-advance-search-admin.php:249
+msgid "Descending"
+msgstr "Absteigend"
+
+#: admin/class-woo-advance-search-admin.php:253
+msgid "Product_Title"
+msgstr "Produktname"
+
+#: admin/class-woo-advance-search-admin.php:254
+msgid "Product_Price"
+msgstr "Produktpreis"
+
+#: admin/class-woo-advance-search-admin.php:255
+msgid "Product_Date"
+msgstr "Produkt_Datum"
+
+#: admin/class-woo-advance-search-admin.php:266
+msgid "Advance Search Shortcode"
+msgstr "Erweiterte Suche Shortcode"
+
+#: admin/class-woo-advance-search-admin.php:279
+msgid "Advance Search Custom CSS"
+msgstr "Erweiterte Suche Benutzerdefinierte CSS"
+
+#: admin/class-woo-advance-search-admin.php:387
+msgid ""
+"Subscribe for latest plugin update and get notified when we update our "
+"plugin and launch new products for free!"
+msgstr ""
+"Abonniere das neueste Plugin-Update und werde benachrichtigt, wenn wir unser "
+"Plugin aktualisieren und neue Produkte kostenlos einführen!"
+
+#: admin/class-woo-advance-search-admin.php:395
+#: admin/class-woo-advance-search-admin.php:581
+msgid "Welcome to Advance Search for WooCommerce"
+msgstr "Willkommen bei Advance Search für WooCommerce"
+
+#: admin/class-woo-advance-search-admin.php:400
+#, php-format
+msgid ""
+"%s Advance Search for WooCommerce plugin allows you to add an advanced "
+"search option for WooCommerce Products."
+msgstr ""
+"% s Erweiterte Suche nach WooCommerce Plugin ermöglicht es Ihnen, eine "
+"erweiterte Suchoption für WooCommerce Produkte hinzuzufügen."
+
+#: admin/class-woo-advance-search-admin.php:427
+msgid "Go to Advance Search for WooCommerce Settings"
+msgstr "Gehe zu Erweiterte Suche nach WooCommerce-Einstellungen"
+
+#: admin/class-woo-advance-search-admin.php:446
+msgid ""
+"Advance Search for WooCommerce plugin allows you to add an advanced search "
+"option for WooCommerce Products. With this option you can search products by "
+"product tag and category. you can apply filter searcher like Title, order by "
+"date, price category and search order by ascending, Descending. You can "
+"customize search as per your requirement like enable and disable product "
+"category and tag. you can view searcher option by preview option. you can "
+"integrated searcher option in your site using a short-code on a page, as the "
+"widget in a sidebar or as template tag in a template."
+msgstr ""
+"Erweiterte Suche nach WooCommerce-Plugin ermöglicht es Ihnen, eine "
+"erweiterte Suchoption für WooCommerce-Produkte hinzuzufügen. Mit dieser "
+"Option können Sie Produkte nach Produkt-Tag und Kategorie suchen. Sie können "
+"Filtersucher wie Titel, Reihenfolge nach Datum, Preiskategorie und "
+"Suchreihenfolge nach aufsteigend, absteigend anwenden. Sie können die Suche "
+"nach Ihren Anforderungen anpassen, z. B. Produktkategorie und -tag "
+"aktivieren und deaktivieren. Sie können die Suchoption als Vorschau "
+"anzeigen. Sie können die Suchoption in Ihre Site integrieren, indem Sie "
+"einen Kurzcode auf einer Seite, als Widget in einer Seitenleiste oder als "
+"Vorlagen-Tag in einer Vorlage verwenden."
+
+#: admin/class-woo-advance-search-admin.php:451
+msgid "Advance search across all your WooCommerce products"
+msgstr "Erweiterte Suche über alle Ihre WooCommerce-Produkte"
+
+#: admin/class-woo-advance-search-admin.php:452
+msgid "Advance Search by Category"
+msgstr "Erweiterte Suche nach Kategorie"
+
+#: admin/class-woo-advance-search-admin.php:453
+msgid "Advance Search by Product tag"
+msgstr "Erweiterte Suche nach Produkttag"
+
+#: admin/class-woo-advance-search-admin.php:454
+msgid "Filter by Title, Date, Price"
+msgstr "Nach Titel, Datum, Preis filtern"
+
+#: admin/class-woo-advance-search-admin.php:455
+msgid "Filter by Ascending and Descending"
+msgstr "Filtern nach Aufsteigend und Absteigend"
+
+#: admin/class-woo-advance-search-admin.php:456
+msgid "Enable or disable searches by product category and tag."
+msgstr ""
+"Aktivieren oder deaktivieren Sie die Suche nach Produktkategorie und Tag."
+
+#: admin/class-woo-advance-search-admin.php:457
+msgid "you can preview of advanced searcher option as per your setting."
+msgstr ""
+"Sie können eine Vorschau der erweiterten Sucheroption gemäß Ihrer "
+"Einstellung anzeigen."
+
+#: admin/class-woo-advance-search-admin.php:458
+msgid "Shortcode - Use shortcode to place search option anywhere you want"
+msgstr ""
+"Shortcode - Verwenden Sie den Shortcode, um die Suchoption an einer "
+"beliebigen Stelle zu platzieren"
+
+#: admin/class-woo-advance-search-admin.php:459
+msgid "you can apply custom CSS for advanced searcher option."
+msgstr ""
+"Sie können benutzerdefiniertes CSS für erweiterte Suchoptionen anwenden."
+
+#: admin/class-woo-advance-search-admin.php:582
+msgid ""
+"Advance Search for WooCommerce plugin allows you to add an advanced search "
+"option for WooCommerce Products."
+msgstr ""
+"Erweiterte Suche nach WooCommerce-Plugin ermöglicht es Ihnen, eine "
+"erweiterte Suchoption für WooCommerce-Produkte hinzuzufügen."
+
+#: public/class-woo-advance-search-public.php:129
+msgid "submit"
+msgstr "einreichen"
